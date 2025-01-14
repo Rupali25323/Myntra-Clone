@@ -1,1 +1,1 @@
-# Myntra-Clone
+This project is basic replica of the popular online fashion store Myntra,created using HTML and CSS.It features the core layout and design elements commonly seen on e-commerce websites,including homepage,navigation bar,product listings,and categories section.The purpose of this project is to practice front-end development skills,focusing on layout structure,responsiveness,and CSS styling techniques,such as flexbox.this project does not include any bakend features or real e-commerce functionality.
